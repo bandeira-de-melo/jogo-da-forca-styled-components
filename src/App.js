@@ -12,7 +12,7 @@ const AppStyles = styled.div`
 
 const App = ()=>(
   <AppStyles>
-    <Jogo images={image0}/>    
+    <Jogo images={image0} buttonText ="Escolher Palavra"/>    
   </AppStyles>
 )
 

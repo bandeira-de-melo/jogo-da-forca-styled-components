@@ -3,6 +3,7 @@ const Roboto = 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Rob
 
 const GlobalStyle = createGlobalStyle`
   body {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     background: teal;
